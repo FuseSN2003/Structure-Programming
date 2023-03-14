@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <math.h>
+
 typedef struct {
     float x,y,z;
 }Vector3D;
